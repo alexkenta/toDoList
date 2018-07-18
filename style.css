@@ -1,0 +1,11 @@
+button {
+    width: 150px;
+    margin: 5px;
+}
+
+.deleteButton {
+    width: 75px;
+    color: white;
+    background-color: rgb(224, 36, 36);
+    margin-left: 20px;
+}
